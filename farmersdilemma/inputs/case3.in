@@ -1,0 +1,10 @@
+a b c d e f g h
+8
+a eats b
+b eats c
+c eats d
+d eats e
+e eats f
+f eats g
+g eats h
+h eats a

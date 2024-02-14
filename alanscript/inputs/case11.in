@@ -1,0 +1,17 @@
+16
+swap e
+ if h do  swap j  else  swap b  end 
+ if j do  else   if f do   while j do  swap j   if j do  else  swap e  end   end    if g do  swap a   while b do  swap c  end   else   if a do  swap d  swap e  swap g  else  swap i  swap e  end    while d do  swap f  swap j  swap c  end   end   else  swap a  end   end 
+ if e do  else   while h do   if j do   if g do  swap j  swap c  else  end    if e do  swap e  swap f  swap h  else  end   else   if i do  swap j  swap f  swap c  else  swap i  swap j  end    while c do  swap b  end   end   end    while e do   if f do   while g do  end   else  end   end   swap f   while h do   while b do  end   end   end 
+ while b do  end 
+swap j
+ while f do  end 
+ if b do   while b do   if b do   if b do  swap e  else  swap a  swap b  swap d  end   swap c   if d do  swap e  swap g  swap c  else  end   else   while a do  swap g  swap d  swap g  end   swap h  swap j  end   end    while j do   while j do   while f do  swap j  swap i  end   end    if f do  swap j  else   if f do  swap j  swap j  else  swap i  end   end   end   else  end 
+ if g do   while d do  end    if c do   while j do   if b do  swap g  swap b  swap j  else  swap e  swap g  swap j  end   end    if j do   if c do  swap f  swap e  else  swap e  end   swap i  else   if c do  else  end    while a do  end   end   else   while i do  swap d  swap h  swap g  end    if f do  else   while f do  swap b  end    while e do  end    while a do  swap f  end   end    while a do  end   end    if i do  else   while i do   if i do  swap f  else  swap b  swap f  end    if f do  swap d  swap e  else  swap d  end   end   end   else  swap e  swap f  end 
+ while a do   while a do  swap b   if f do   while d do  swap f  swap a  end    if b do  swap a  swap i  swap e  swap d  else  swap d  swap e  end   else  end   end    if e do  swap b   if h do   if e do  else  end   else   if f do  swap a  swap e  else  end   swap h  end   else  swap a  end   end 
+ if b do   while j do   if g do  else   while j do  swap d  swap g  end   end    if b do  else   if g do  swap f  else  swap b  swap g  end   end   end   else  end 
+ if g do  else  end 
+swap f
+ while g do   while e do  end   end 
+ if i do  else   if a do  else   while b do   if h do  swap j  swap j  swap i  else  swap d  end    while e do  swap h  swap j  swap d  end    while j do  swap d  end   end   end   end 
+swap e

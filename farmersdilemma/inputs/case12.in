@@ -1,0 +1,17 @@
+a b c d e f g h i j
+15
+a eats b
+b eats e
+b eats f
+b eats j
+e eats h
+e eats i
+e eats f
+e eats c
+f eats j
+f eats g
+f eats c
+i eats g
+j eats g
+g eats c
+c eats f

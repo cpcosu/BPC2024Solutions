@@ -1,0 +1,23 @@
+a b c d e f g
+21
+a eats b
+a eats c
+a eats d
+a eats e
+a eats f
+a eats g
+b eats c
+b eats d
+b eats e
+b eats f
+b eats g
+c eats d
+c eats e
+c eats f
+c eats g
+d eats e
+d eats f
+d eats g
+e eats f
+e eats g
+f eats g

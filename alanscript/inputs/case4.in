@@ -1,0 +1,32 @@
+31
+swap j
+while j do
+    swap a
+    if a do else
+        swap b
+        if b do else
+            swap c
+            if c do else
+                swap d
+                if d do else
+                    swap e
+                    if e do else
+                        swap f
+                        if f do else
+                            swap g
+                            if g do else
+                                swap h
+                                if h do else
+                                    swap i
+                                    if i do else
+
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end

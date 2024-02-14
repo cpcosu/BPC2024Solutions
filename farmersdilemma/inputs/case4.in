@@ -1,0 +1,9 @@
+q r t v a l s
+7
+q eats r
+r eats t
+t eats v
+v eats a
+a eats l
+l eats s
+s eats q

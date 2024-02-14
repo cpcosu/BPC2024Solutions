@@ -1,0 +1,5 @@
+4
+work=force*distance
+force=mass*acceleration
+velocity=distance/time
+distance=radius*angle

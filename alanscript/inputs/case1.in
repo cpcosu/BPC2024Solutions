@@ -1,0 +1,5 @@
+4
+swap a
+while a do
+  swap b
+end

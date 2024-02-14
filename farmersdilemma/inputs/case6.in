@@ -1,0 +1,8 @@
+a b c e g
+6
+a eats b
+b eats a
+b eats c
+c eats e
+c eats g
+g eats e

@@ -1,0 +1,11 @@
+10
+swap a
+while a do
+  swap b
+  if b do
+    swap a
+  else
+    swap c
+  end
+  if c do else end
+end

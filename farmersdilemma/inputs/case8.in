@@ -1,0 +1,16 @@
+a b c d e f g h
+14
+a eats b
+a eats c
+a eats d
+a eats e
+a eats f
+a eats g
+a eats h
+b eats c
+c eats d
+d eats e
+e eats f
+f eats g
+g eats h
+h eats b

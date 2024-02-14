@@ -1,0 +1,8 @@
+4 3
+(wood,15)
+(gel,5)
+(torch,3)
+(amethyst,3)
+(786,purple_torch):(torch,3) (amethyst,1)
+(2493,candle):(torch,1) (gold_bar,1)
+(901,torch):(wood,1) (gel,1)
